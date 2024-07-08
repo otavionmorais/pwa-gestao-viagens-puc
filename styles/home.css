@@ -1,0 +1,29 @@
+.content-container {
+  flex-flow: column;
+  width: 80vw;
+  background-color: white;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+.result-item {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-items: center;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  border-radius: 10px;
+  width: 80%;
+  margin: 10px auto;
+}
+
+#from-total {
+  font-size: 20px;
+  font-weight: 400;
+  margin: 10px;
+}
+
+#to-total {
+  font-size: 20px;
+  font-weight: 400;
+}

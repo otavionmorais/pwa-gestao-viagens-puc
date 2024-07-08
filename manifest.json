@@ -1,0 +1,9 @@
+{
+  "name": "Gestão de Despesas em Viagens",
+  "short_name": "Gestão de Despesas",
+  "background_color": "#007bff",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": ".",
+  "description": ""
+}
