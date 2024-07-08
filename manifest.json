@@ -5,5 +5,19 @@
   "display": "standalone",
   "scope": "/",
   "start_url": ".",
-  "description": ""
+  "description": "",
+  "icons": [
+    {
+      "src": "assets/icon.png",
+      "sizes": "512x512"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "assets/icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "wide"
+    }
+  ]
 }
